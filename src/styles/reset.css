@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* serve para tirar a cor azul em volta das caixinhas de input quando aperta o Tab*/
+    outline: none;
+    font-family: "Poppins", sans-serif;
+}
