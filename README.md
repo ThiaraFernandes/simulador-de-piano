@@ -1,7 +1,7 @@
 # Piano Virtual
 Jogo desenvolvido durante o Bootcamp: Potência Tech iFood - Desenvolvimento de Jogos🎹
 
-[<img src="./Animação.gif" alt="gif da tela do jogo de um simulador de piano">]
+<img src="./Animação.gif" alt="gif da tela do jogo de um simulador de piano">
 
 ### Tecnologias Utilizadas
 
